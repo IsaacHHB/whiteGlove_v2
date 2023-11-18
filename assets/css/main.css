@@ -2699,7 +2699,7 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: #819dc0;
+			background-color: #95aecc;
 			/* background-image: linear-gradient(#b0c2d7, #819dc0); */
 		}
 
@@ -2711,7 +2711,7 @@ input, select, textarea {
 
 		.spotlight:nth-child(3) {
 			/* background-color: rgba(0, 0, 0, 0.225); */
-			background-color: #819dc0;
+			background-color: #95aecc;
 			/* background-image: linear-gradient(#b0c2d7, #819dc0); */
 		}
 
