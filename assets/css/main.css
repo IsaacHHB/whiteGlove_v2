@@ -2699,43 +2699,53 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			/* background-color: rgba(0, 0, 0, 0.075); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			/* background-color: rgba(0, 0, 0, 0.15); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.225);
+			/* background-color: rgba(0, 0, 0, 0.225); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(0, 0, 0, 0.3);
+			/* background-color: rgba(0, 0, 0, 0.3); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(5) {
-			background-color: rgba(0, 0, 0, 0.375);
+			/* background-color: rgba(0, 0, 0, 0.375); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(6) {
-			background-color: rgba(0, 0, 0, 0.45);
+			/* background-color: rgba(0, 0, 0, 0.45); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(7) {
-			background-color: rgba(0, 0, 0, 0.525);
+			/* background-color: rgba(0, 0, 0, 0.525); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(8) {
-			background-color: rgba(0, 0, 0, 0.6);
+			/* background-color: rgba(0, 0, 0, 0.6); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(9) {
-			background-color: rgba(0, 0, 0, 0.675);
+			/* background-color: rgba(0, 0, 0, 0.675); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		.spotlight:nth-child(10) {
-			background-color: rgba(0, 0, 0, 0.75);
+			/* background-color: rgba(0, 0, 0, 0.75); */
+			background-image: linear-gradient(#b0c2d7, #819dc0);
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -2813,8 +2823,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c8ece9;
+			background-color: #bbc1cd;
+			color: rgb(75, 74, 74);
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
