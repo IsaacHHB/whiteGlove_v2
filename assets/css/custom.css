@@ -5,3 +5,19 @@
 .text-black{
     color: black!important;
 }
+
+.custom-icon {
+    font-size: 2rem;
+    color: black;
+}
+
+.text-centered{
+    text-align: center;
+}
+
+.margin-top15{
+    margin-top: 15%;
+}
+.margin-top5{
+    margin-top: 5%;
+}
